@@ -1,0 +1,17 @@
+p {
+	/*content*/
+width: 50%;
+height:3%;
+
+/*Border*/
+
+border:2px solid pink;
+/*Margin*/
+
+margin-left: 80px;
+margin-top: 20px;
+
+/*Padding*/
+/*padding: 15px;*/
+padding: 20px;
+}

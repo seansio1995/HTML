@@ -1,0 +1,27 @@
+img {
+	width: 30%;
+	float: left;
+	margin:1.6%;
+}
+
+h1 {
+	margin-left: 45%;
+	font-family: Vibur;
+	margin-bottom: 1px;
+}
+
+span:hover {
+	color: rgb(200,20,0);
+}
+
+#bottom-line {
+	border-bottom: 2px solid #F1F1F1;
+}
+/*#one {
+	background-color: red;
+}*/
+
+
+/*#two {
+	background-color: purple;
+}*/

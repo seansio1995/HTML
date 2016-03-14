@@ -1,0 +1,23 @@
+body {
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	margin: 20px auto;
+	margin-bottom:200px; 
+	width:70%;
+	font-family: Jolly Lodger;
+}
+
+p {
+	margin:10px auto;
+}
+
+#date {
+	font-size: 60px;
+	color:#3498db;
+	text-transform: uppercase;
+	letter-spacing: 1rem;
+}
+
+#quotes {
+	border-left: 5px solid #bdc3c7;
+}

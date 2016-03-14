@@ -1,0 +1,30 @@
+p {
+	font-family: Fascinate Inline;
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+h1 {
+	font-family: Short Stack;
+	text-align: center;
+}
+
+/*font-size: */
+h1 {
+	font-size: 60px;
+}
+
+h1:hover {
+	font-size: 120px;
+	color: rgb(300,100,0);
+	text-transform: uppercase;
+	text-decoration: line-through;
+}
+span {
+	font-size: 3em;
+}
+
+span:hover {
+	color: pink;
+}
+

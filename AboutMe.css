@@ -1,0 +1,23 @@
+h1 {
+	color: #FF8000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border:5px solid rgb(10,400,10);
+
+}
+
+li {
+	color: rgb(300,100,80);
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	/*background: url(https://i.ytimg.com/vi/AF0jXrYOtB0/maxresdefault.jpg);
+	background-size: cover;*/
+	border: 
+}
